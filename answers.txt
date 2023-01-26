@@ -2,5 +2,7 @@
 2. query_string
 3. http_user_agent
 4. The cgi FieldStorage stores the data and is used to request the field. 
-5. http_cookie
-6. 
+5. Set-Cookie: <cookie-name>=<cookie-value>
+6. Cookie
+7. Cookies are used to store user information, it helps website remember the users' visit to the webpage. 
+8. https://github.com/filippociandy10/404lab3/
