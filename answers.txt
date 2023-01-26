@@ -1,0 +1,6 @@
+1. os.environ
+2. query_string
+3. http_user_agent
+4. The cgi FieldStorage stores the data and is used to request the field. 
+5. http_cookie
+6. 
